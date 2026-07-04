@@ -1,0 +1,21 @@
+# 备份文件
+*.backup
+NeatDownloadManager.app.backup
+
+# 工作目录
+work/
+work/original_nibs/
+work/xib/
+work/xib_translated/
+work/translated_nibs/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
