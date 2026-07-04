@@ -2,12 +2,8 @@
 *.backup
 NeatDownloadManager.app.backup
 
-# 工作目录
+# 工作目录（临时文件，不含翻译后的 nib）
 work/
-work/original_nibs/
-work/xib/
-work/xib_translated/
-work/translated_nibs/
 
 # Python
 __pycache__/
